@@ -29,8 +29,6 @@ from sklearn.linear_model import ElasticNetCV
 
 from scipy import stats
 
-os.chdir('/Users/manuelverduhenares/Library/CloudStorage/Dropbox/1_Investigación/10_BBDD/2025_Verdu_Carchano_Belza')
-
 warnings.filterwarnings("ignore")
 
 #################### START OF AUXILIAR PROGRAMS ####################
